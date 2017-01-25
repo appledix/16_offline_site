@@ -1,6 +1,11 @@
 # New Site Template
 
-[TODO. There will be project description]
+Это оффлайн версия [bootstrap](http://getbootstrap.com) шаблона для сайтов - [Jumbotron](http://getbootstrap.com/examples/jumbotron).
+
+Все зависимости (js-скрипты, css-файлы и иконка) перенесены в репозиторий для возможности работать с шаблоном не имея доступа к сети.
+
+### Использование
+Достаточно просто клонировать\скачать репозиторий и можно приступать к работе.
 
 # Project Goals
 
